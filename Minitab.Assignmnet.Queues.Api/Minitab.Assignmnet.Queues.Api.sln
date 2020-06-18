@@ -21,6 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.Services.Tests", "..\Minitab.Assignment.Queues.Services.Tests\Minitab.Assignment.Queues.Services.Tests.csproj", "{CBAC9DA5-1AB7-4A31-B34D-FA5DE1D8B0EB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{179887FD-3EED-4CF2-B48B-BDF5A1B0F55E}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,6 +1,17 @@
 This is my 2nd implementation. The original can be found at https://github.com/FrankM9521/Minitab-Assignment
 The 1st implementation followed the requirement of returning after the address is validated. 
 
+****************************************************************************************************
+* This Uses Development Storage and Need Azure Storage Emulator to Run
+*
+* Needs multiple start up projects to run
+*
+* 1. Minitab.Assignment.Queues.Api - REST API
+* 2. Minitab.Assignment.Queues.Functions - Functions App
+*
+*This version has no e2e testing because of this. The API opens directly to swagger
+*****************************************************************************************************
+
 This implementation doesn't block. It uses an Azure Queue Storage function to accomplish this. I consider this "extra-credit", I was running out
 of time, so it's not as polished and because I have 2 separate projects (Web API and Azure Functions using development storage) I have no end to end testing.
 Swagger is set up and that is what I used for testing. There are 2 additional endpoints to help in this:

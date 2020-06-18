@@ -1,0 +1,16 @@
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.deps.json
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.pdb
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.Common.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.CrmStub.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.DomainModels.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.Common.pdb
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.CrmStub.pdb
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\bin\Debug\netcoreapp3.1\Minitab.Assignment.DomainModels.pdb
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.csprojAssemblyReference.cache
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.AssemblyInfoInputs.cache
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.AssemblyInfo.cs
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.csproj.CoreCompileInputs.cache
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.csproj.CopyComplete
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.Services\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.Services.pdb

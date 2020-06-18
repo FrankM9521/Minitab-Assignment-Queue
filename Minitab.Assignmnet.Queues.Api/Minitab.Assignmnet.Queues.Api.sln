@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minitab.Assignment.Queues.Api", "Minitab.Assignment.Queues.Api.csproj", "{B77FFC4C-599E-4B39-B636-A401A97F1F1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Common", "..\Minitab.Assignment.Queues.Common\Minitab.Assignment.Common.csproj", "{E560AEBF-C60E-4276-90A9-029C087290DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.CrmStub", "..\Minitab.Assignment.Queues.CrmStub\Minitab.Assignment.CrmStub.csproj", "{DEF90277-2AAF-4D31-945B-8350A9BAC2E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.DataContracts", "..\Minitab.Assignment.Queues.DataContracts\Minitab.Assignment.Queues.DataContracts.csproj", "{21E27A86-FA06-4303-83AA-B39674CF067E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.DomainModels", "..\Minitab.Assignment.Queues.DomainModels\Minitab.Assignment.DomainModels.csproj", "{A8187AC9-CF53-4840-A21F-657C6871CDD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.Functions", "..\Minitab.Assignment.Queues.Functions\Minitab.Assignment.Queues.Functions.csproj", "{6CCB44BC-E0C7-4875-B216-3FF451E95424}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.QueueClient", "..\Minitab.Assignment.Queues.QueueClient\Minitab.Assignment.Queues.QueueClient.csproj", "{7227EDAF-50C3-4977-99C5-BA463202232F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.Services", "..\Minitab.Assignment.Queues.Services\Minitab.Assignment.Queues.Services.csproj", "{DC1CA62E-11A2-4C28-9851-E6F96D014C1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minitab.Assignment.Queues.Services.Tests", "..\Minitab.Assignment.Queues.Services.Tests\Minitab.Assignment.Queues.Services.Tests.csproj", "{CBAC9DA5-1AB7-4A31-B34D-FA5DE1D8B0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77FFC4C-599E-4B39-B636-A401A97F1F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77FFC4C-599E-4B39-B636-A401A97F1F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77FFC4C-599E-4B39-B636-A401A97F1F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77FFC4C-599E-4B39-B636-A401A97F1F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E560AEBF-C60E-4276-90A9-029C087290DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E560AEBF-C60E-4276-90A9-029C087290DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E560AEBF-C60E-4276-90A9-029C087290DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E560AEBF-C60E-4276-90A9-029C087290DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF90277-2AAF-4D31-945B-8350A9BAC2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF90277-2AAF-4D31-945B-8350A9BAC2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF90277-2AAF-4D31-945B-8350A9BAC2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF90277-2AAF-4D31-945B-8350A9BAC2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E27A86-FA06-4303-83AA-B39674CF067E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E27A86-FA06-4303-83AA-B39674CF067E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E27A86-FA06-4303-83AA-B39674CF067E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E27A86-FA06-4303-83AA-B39674CF067E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8187AC9-CF53-4840-A21F-657C6871CDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8187AC9-CF53-4840-A21F-657C6871CDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8187AC9-CF53-4840-A21F-657C6871CDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8187AC9-CF53-4840-A21F-657C6871CDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCB44BC-E0C7-4875-B216-3FF451E95424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCB44BC-E0C7-4875-B216-3FF451E95424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCB44BC-E0C7-4875-B216-3FF451E95424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCB44BC-E0C7-4875-B216-3FF451E95424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7227EDAF-50C3-4977-99C5-BA463202232F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7227EDAF-50C3-4977-99C5-BA463202232F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7227EDAF-50C3-4977-99C5-BA463202232F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7227EDAF-50C3-4977-99C5-BA463202232F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1CA62E-11A2-4C28-9851-E6F96D014C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1CA62E-11A2-4C28-9851-E6F96D014C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1CA62E-11A2-4C28-9851-E6F96D014C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1CA62E-11A2-4C28-9851-E6F96D014C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAC9DA5-1AB7-4A31-B34D-FA5DE1D8B0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAC9DA5-1AB7-4A31-B34D-FA5DE1D8B0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAC9DA5-1AB7-4A31-B34D-FA5DE1D8B0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAC9DA5-1AB7-4A31-B34D-FA5DE1D8B0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78652EE-EF67-4924-A502-478D121A52D0}
+	EndGlobalSection
+EndGlobal

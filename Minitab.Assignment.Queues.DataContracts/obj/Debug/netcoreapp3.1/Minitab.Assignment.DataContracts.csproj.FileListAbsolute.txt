@@ -1,0 +1,12 @@
+C:\src\MinitabAssignment\Minitab.Assignment.Functions\bin\output\Minitab.Assignment.DataContracts.deps.json
+C:\src\MinitabAssignment\Minitab.Assignment.Functions\bin\output\Minitab.Assignment.DataContracts.dll
+C:\src\MinitabAssignment\Minitab.Assignment.Functions\bin\output\Minitab.Assignment.DataContracts.pdb
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.deps.json
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.dll
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.pdb
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.AssemblyInfoInputs.cache
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.AssemblyInfo.cs
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.csproj.CoreCompileInputs.cache
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.dll
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.pdb
+C:\src\MinitabAssignment\Minitab.Assignment.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.DataContracts.csprojAssemblyReference.cache

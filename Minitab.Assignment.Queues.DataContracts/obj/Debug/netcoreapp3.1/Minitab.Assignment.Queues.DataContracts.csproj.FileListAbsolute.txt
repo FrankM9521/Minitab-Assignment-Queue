@@ -1,0 +1,16 @@
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.deps.json
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.dll
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.pdb
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.AssemblyInfoInputs.cache
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.AssemblyInfo.cs
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.csproj.CoreCompileInputs.cache
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.dll
+C:\src\MinitabAssignmentQueue\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.pdb
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.deps.json
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\bin\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.pdb
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.AssemblyInfoInputs.cache
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.AssemblyInfo.cs
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.csproj.CoreCompileInputs.cache
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.dll
+C:\repos\MinitabAssignmentWithQueues\Minitab.Assignment.Queues.DataContracts\obj\Debug\netcoreapp3.1\Minitab.Assignment.Queues.DataContracts.pdb

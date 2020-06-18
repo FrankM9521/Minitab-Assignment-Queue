@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Minitab.Assignment.Queues.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Minitab.Assignment.Queues.Api.Controllers.CustomerController">
+            <summary>
+            Customer Controller
+            </summary>
+        </member>
+        <member name="M:Minitab.Assignment.Queues.Api.Controllers.CustomerController.Post(Minitab.Assignment.DataContracts.Customer)">
+            <summary>
+            Posts a customer and address. If the address in cannot be validated by the postal validator,
+            only the customer will be inserted. Otherwise both the customer and the address will be inserted
+            into the mock CRM system
+            </summary>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Minitab.Assignment.Queues.Api.Controllers.CustomerController.Get(System.String)">
+            <summary>
+            Used for integration testing to validate that the user was inserted. Returns a domain model
+            since this is just a test stub
+            </summary>
+            <param name="emailAddress"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Minitab.Assignment.Queues.Api.Controllers.CustomerController.Clear">
+            <summary>
+            Used for integration testing to delete all records from the Customer and Address tables
+            before each test run.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Minitab.Assignment.Queues.Api.Models.ErrorMessages">
+            <summary>
+            Errors returned from server
+            </summary>
+        </member>
+    </members>
+</doc>
